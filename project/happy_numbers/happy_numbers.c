@@ -1,3 +1,15 @@
+/*
+23
+https://pan.quark.cn/s/ce8e49f4f903#/list/share
+    
+21
+https://pan.baidu.com/share/init?surl=JB7QVdlKXePQchsq-xXKQg
+kf9c
+    
+19
+https://pan.baidu.com/share/init?surl=DwVJ7TidujvV-vXhT0Tegw
+b5g5
+*/
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
